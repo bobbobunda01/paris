@@ -1,7 +1,5 @@
 joblib
 pydantic
 flask
-PIL==10.0.0
-gunicorn
 numpy 
 pandas
