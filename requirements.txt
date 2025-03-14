@@ -1,0 +1,7 @@
+joblib
+pydantic
+flask
+PIL
+gunicorn
+numpy 
+pandas
