@@ -1,5 +1,7 @@
+
 joblib
 pydantic
 flask
 numpy 
 pandas
+gunicorn
